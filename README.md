@@ -23,7 +23,7 @@ Fomentar a cultura maker, a interdisciplinaridade e o aprendizado prático por m
 Estamos localizados no Instituto de Física da USP, no campus da Cidade Universitária, São Paulo.
 
 📍 **Endereço**:  
-Rua do Matão, 1371, Sala 1013 – Cidade Universitária, São Paulo - SP, Brasil
+[Rua do Matão, 1371, Sala 1013 – Cidade Universitária, São Paulo - SP, Brasil](https://maps.app.goo.gl/VgFp1DP7tM6E9N6J6)
 
 ---
 
