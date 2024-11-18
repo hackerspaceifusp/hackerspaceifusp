@@ -23,28 +23,27 @@ Fomentar a cultura maker, a interdisciplinaridade e o aprendizado prático por m
 Estamos localizados no Instituto de Física da USP, no campus da Cidade Universitária, São Paulo.
 
 📍 **Endereço**:  
-Rua do Matão, 1371 – Cidade Universitária, São Paulo - SP, Brasil
+Rua do Matão, 1371, Sala 1013 – Cidade Universitária, São Paulo - SP, Brasil
 
 ---
 
 ## 📆 **Como participar?**
-1. **Visite-nos**: Participe de uma de nossas reuniões abertas ou eventos (consulte a agenda em nosso site ou redes sociais).
+1. **Visite-nos**: O espaço está constantemente aberto para novos frequentadores!
 2. **Contribua**: Proponha um projeto, colabore em atividades ou compartilhe conhecimento.
 3. **Divulgue**: Ajude-nos a crescer promovendo o HackerSpace IFUSP para sua comunidade.
 
 ---
 
 ## 🌐 **Conecte-se conosco**
-- **Site oficial**: [hacker.if.usp.br](https://hacker.if.usp.br)  
-- **Instagram**: [@hackerspaceifusp](https://instagram.com/hackerspaceifusp)  
+- **Site oficial**: [hackerspace.if.usp.br](https://hackersp.if.usp.br)  
+- **Instagram**: [@hackerspace.ifusp](https://instagram.com/hackerspace.ifusp)  
 - **E-mail**: hackerspace@if.usp.br
 
 ---
 
 ## 📋 **Como contribuir com projetos?**
-1. Faça um fork deste repositório (se aplicável) ou inscreva-se em nosso site.
-2. Envie suas ideias ou junte-se a um projeto em andamento.
-3. Compartilhe código, materiais ou equipamentos que possam beneficiar a comunidade.
+1. Envie suas ideias ou junte-se a um projeto em andamento.
+2. Compartilhe código, materiais ou equipamentos que possam beneficiar a comunidade.
 
 ---
 
