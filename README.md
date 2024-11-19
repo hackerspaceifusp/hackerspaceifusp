@@ -55,7 +55,7 @@ Somos estudantes, professores e entusiastas de diversas áreas, unidos pelo dese
 ---
 
 ## 📝 **Licença**
-Este repositório e seus conteúdos estão licenciados sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+Este repositório e seus conteúdos estão licenciados sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) (W.I.P) para mais informações.
 
 ---
 
